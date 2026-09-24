@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+*.swp
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# Application downloads & temp files
+backend/downloads/
+backend/tmp/
+*.mp4
+*.mp3
+*.m4a
+*.webm
+
+# Environment & IDE
+.env
+.DS_Store
+.vscode/
+.idea/
+cloudflared.exe
+*.zip

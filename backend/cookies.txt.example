@@ -1,0 +1,12 @@
+# Netscape HTTP Cookie File
+# This file is used to authenticate yt-dlp with Instagram so private / restricted reels can be downloaded.
+#
+# HOW TO GET YOUR COOKIES IN 1 MINUTE:
+# 1. Install Chrome or Firefox extension: "Get cookies.txt LOCALLY" (or "Cookie-Editor")
+# 2. Go to https://www.instagram.com and make sure you are logged in
+# 3. Click the extension and export cookies for instagram.com as "cookies.txt"
+# 4. Place the downloaded "cookies.txt" file into this backend folder:
+#    c:\Users\jenis\OneDrive\Desktop\youtube\backend\cookies.txt
+#
+# On cloud hosts like Render or Railway:
+# Set an Environment Variable named INSTAGRAM_COOKIES with the text contents of your cookies.txt
