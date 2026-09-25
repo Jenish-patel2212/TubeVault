@@ -30,7 +30,5 @@ services:
         destination: /index.html
     envVars:
       - key: VITE_API_BASE_URL
-        fromService:
-          type: web
-          name: tubevault-backend
-          property: host
+        value: https://tubevault-backend.onrender.com
+
