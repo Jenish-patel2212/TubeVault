@@ -61,7 +61,7 @@ const client = axios.create({
   timeout: 45000, // 45 seconds for metadata analysis
 });
 
-client.interceptors.request.use((config) => {
+client.interceptors.request.use((config: any) => {
   config.baseURL = getApiBaseUrl();
   return config;
 });
