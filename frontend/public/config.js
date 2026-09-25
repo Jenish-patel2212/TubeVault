@@ -11,4 +11,5 @@
  * Agar aapne abhi tak backend host nahi kiya hai, to isko khali chhod sakte hain
  * aur website ke upar "Server" button par click karke direct URL dal sakte hain!
  */
-window.TUBEVAULT_BACKEND_URL = "";
+window.TUBEVAULT_BACKEND_URL = "https://tubevault-backend-br8m.onrender.com";
+
